@@ -3,6 +3,7 @@
 ![Banner](./docs/images/banner.png)
  
 <div align="center">
+
   <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/LondheShubham153/retail-store-sample-app)](Stars)
