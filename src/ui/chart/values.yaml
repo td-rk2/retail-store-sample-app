@@ -4,7 +4,7 @@
 
 replicaCount: 1
 image:
-  repository: 276971052169.dkr.ecr.us-west-2.amazonaws.com/demo-private/ui
+  repository: 276971052169.dkr.ecr.us-west-2.amazonaws.com/demo-private/ui1:latest
   pullPolicy: Always
   tag: "latest"
 imagePullSecrets:
