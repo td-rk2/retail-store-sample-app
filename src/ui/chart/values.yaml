@@ -4,9 +4,9 @@
 
 replicaCount: 1
 image:
-  repository: 276971052169.dkr.ecr.us-west-2.amazonaws.com/demo-private/ui1
+  repository: 276971052169.dkr.ecr.us-west-2.amazonaws.com/retail-store-ui
   pullPolicy: Always
-  tag: "latest"
+  tag: "28e63f0"
 imagePullSecrets:
   - name: regcred
 nameOverride: ""
